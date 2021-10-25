@@ -1,0 +1,109 @@
+@@font-face {
+  font-family:Montserrat
+  src:local("Montserrat-Black"),
+  url(../fonts/Montserrat-Black.ttf);
+
+}
+@@font-face {
+  font-family:Montserrat
+  src:local("Montserrat-ExtraLight"),
+  url(../fonts/Montserrat-ExtraLight.ttf);
+
+}
+@font-face {
+  font-family:Montserrat
+  src:local("Montserrat-ExtraLight"),
+  url(../fonts/Montserrat-Light.ttf);
+
+}
+@@font-face {
+  font-family:Montserrat
+  src:local("Montserrat-LightItallic"),
+  url(../fonts/Montserrat-LightItallic.ttf);
+
+}
+@@font-face {
+  font-family:Montserrat
+  src:local("Montserrat-Regular"),
+  url(../fonts/Montserrat-Regular.ttf);
+
+}
+@@font-face {
+  font-family:Montserrat
+  src:local("Montserrat-SemiBold"),
+  url(../fonts/Montserrat-SemiBold.ttf);
+
+}
+@@font-face {
+  font-family:Montserrat
+  src:local("Montserrat-SemiBoldItalic"),
+  url(../fonts/Montserrat-SemiBoldItalic.ttf);
+
+}
+@@font-face {
+  font-family:Montserrat
+  src:local("Montserrat-Thin"),
+  url(../fonts/Montserrat-Thin.ttf);
+
+}
+
+body{
+  font-family: Montserrat-Black;
+  margin: 0;
+
+}
+
+input, textarea{
+  margin: 0;
+  padding: 0;
+  box-shadow: none;
+  border-radius: 0;
+  border: 0;
+  outline: inherit;
+  font-family: Montserrat-Black;
+}
+
+textarea{
+  resize: none;
+}
+
+.clear{
+  clear: both;
+}
+
+.content{
+  width: 1817px;
+padding-left: 52px;
+  padding-right: 52px;
+  margin: 0px auto;
+
+}
+
+.head{
+  overflow: hidden;
+  height: 1080px;
+  background-image: url(../img/photo.png);
+
+
+}
+.shrift{
+  font-size: 170px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+}
+ .Regular{
+
+   font-family: Montserrat-Regular;
+   margin-left: 120px;
+   padding-right: 888px;
+  margin-top: 1;
+
+ }
+
+.Light{
+  font-family: Montserrat-Light;
+margin-left: 51px;
+
+}
